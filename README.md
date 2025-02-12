@@ -3,7 +3,7 @@
 
 - 🐧 Use **Linux Mint**  
 - 🛠 Work with **Python, Bash, Nginx**  
-- 📫 My contacts: [Telegram](https://t.me/yourname)  
+- 📫 My contacts: [Telegram](https://t.me/@max_panch)  
 
 ![Static GitHub](https://github-readme-stats.vercel.app/api?username=panchenko-maxim&show_icons=true&theme=dark)
 
