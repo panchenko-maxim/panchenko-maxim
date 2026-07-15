@@ -66,10 +66,9 @@
 </div>  
 <br/>  
 
+![Static GitHub](https://github-readme-stats.vercel.app/api?username=panchenko-maxim&show_icons=true&theme=dark&v=1)
 
-![Static GitHub](https://github-readme-stats.vercel.app/api?username=panchenko-maxim&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panchenko-maxim&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=panchenko-maxim&layout=compact&theme=dark&v=1)
 
 <!--
 ###
