@@ -31,7 +31,7 @@ I build robust backend architectures, automate data pipelines, and enjoy working
   <a href="https://www.linkedin.com/in/maxim-panchenko-5a1aa71a1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a> 
-  <a href="mailto:your.email@example.com">
+  <a href="panchenko.maxim87@gmail.com>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
 </div>
