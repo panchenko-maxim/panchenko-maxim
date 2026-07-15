@@ -8,39 +8,32 @@ I build robust backend architectures, automate data pipelines, and enjoy working
 ## 🔭 What I'm working on
 
 * **Product Inventory Automation:** Developing a multi-module Python application with automated scrapers to synchronize supplier data from Google Sheets and media from Telegram channels.
-* **Logistics Mobile Solutions:** Researching and building cross-platform mobile architecture (API integration, state management, background tracking) using **Flutter** & **Dart**.
+* **Logistics Mobile Solutions:** Researching and building cross-platform mobile architecture (API integration, state management, background tracking).
 * **Cybersecurity Training:** Actively studying web vulnerability assessment and penetration testing methodologies.
 
 ---
 
 ## 💻 Tech Stack  
 
-### Backend & Data
-`Python` `PostgreSQL` `SQLAlchemy` `Redis` `Celery` `Django` `Flask`
+### 🛠 Core (Daily Drivers)
+`Python` `PostgreSQL` `SQLAlchemy` `Redis` `Linux (Ubuntu/Pop!_OS)` `Docker` `Git`
 
-### Frontend & Mobile
-`Vue.js` `JavaScript` `HTML/CSS` `Tailwind` `Flutter` `Dart`
+### 🔧 Familiar With & Using
+`Vue.js` `Django` `Flask` `Celery` `Bash`
 
-### DevOps & Tools
-`Linux (Ubuntu/Pop!_OS)` `Docker & Docker Compose` `Git` `Bash`
-
----
-
-## 📂 Featured Projects
-* [**Project Name 1**](https://github.com/panchenko-maxim/repo-link) — *Short description (e.g., Automated Telegram scraper & DB sync tool).*
-* [**Project Name 2**](https://github.com/panchenko-maxim/repo-link) — *Short description (e.g., Mobile client for logistics tracking).*
-*(Replace the links and names with your actual public repositories)*
+### 🌱 Currently Exploring
+`Flutter` `Dart` `Web Security`
 
 ---
 
 ## 📫 Connect with me  
 <div align="left">
-  <a href="https://github.com/panchenko-maxim" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/maxim-panchenko-5a1aa71a1/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a> 
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 
