@@ -39,6 +39,10 @@ I build robust backend architectures, automate data pipelines, and enjoy working
   </a>
 </div>
 
+---
+
+![Metrics](github-metrics.svg)
+
 
 <!---# Hi, I'm Max! 👋  
 ### 🚀 Python developer, like Linux)
