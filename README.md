@@ -26,6 +26,19 @@ I build robust backend architectures, automate data pipelines, and enjoy working
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  
+  <br/>
+  
+  <!-- Если змейка вам не нужна, просто удалите строчку ниже -->
+  <img src="github-snake.svg" alt="GitHub Snake" />
+</div>
+
+---
+
 ## 📫 Connect with me  
 <div align="left">
   <a href="https://github.com/panchenko-maxim" target="_blank">
@@ -38,10 +51,6 @@ I build robust backend architectures, automate data pipelines, and enjoy working
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
 </div>
-
----
-
-![Metrics](github-metrics.svg)
 
 
 <!---# Hi, I'm Max! 👋  
