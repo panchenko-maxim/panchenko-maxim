@@ -1,12 +1,24 @@
+<!---
 # Hi, I'm Max! 👋  
-### 🚀 Software Developer | Python & Linux enthusiast
+**🚀 Software Developer | Python & Linux enthusiast**
 
 I build robust backend architectures, automate data pipelines, and enjoy working within multi-computer Linux environments. Currently, I'm deepening my knowledge in system optimization and exploring web application security.
+
+<div align="left">
+  <a href="https://github.com/panchenko-maxim" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/maxim-panchenko-5a1aa71a1/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a> 
+  <a href="mailto:panchenko.maxim87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 ---
 
 ## 🔭 What I'm working on
-
 * **Product Inventory Automation:** Developing a multi-module Python application with automated scrapers to synchronize supplier data from Google Sheets and media from Telegram channels.
 * **Logistics Mobile Solutions:** Researching and building cross-platform mobile architecture (API integration, state management, background tracking).
 * **Cybersecurity Training:** Actively studying web vulnerability assessment and penetration testing methodologies.
@@ -15,41 +27,56 @@ I build robust backend architectures, automate data pipelines, and enjoy working
 
 ## 💻 Tech Stack  
 
-### 🛠 Core (Daily Drivers)
-`Python` `PostgreSQL` `SQLAlchemy` `Redis` `Linux (Ubuntu/Pop!_OS)` `Docker` `Git`
-
-### 🔧 Familiar With & Using
-`Vue.js` `Django` `Flask` `Celery` `Bash`
-
-### 🌱 Currently Exploring
-`Flutter` `Dart` `Web Security`
+* **🛠 Core (Daily Drivers):** `Python` `PostgreSQL` `SQLAlchemy` `Redis` `Linux (Ubuntu/Pop!_OS)` `Docker` `Git`
+* **🔧 Familiar With & Using:** `Vue.js` `Django` `Flask` `Celery` `Bash`
+* **🌱 Currently Exploring:** `Flutter` `Dart` `Web Security`
 
 ---
+-->
 
-## 📊 GitHub Activity
+```yaml
+name: Max 👋
+role: 🚀 Software Developer | Python & Linux enthusiast
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-  
-  <br/>
-  
-  <!-- Если змейка вам не нужна, просто удалите строчку ниже -->
-  <img src="github-snake.svg" alt="GitHub Snake" />
-</div>
+about_me: >
+  I build robust backend architectures, automate data pipelines, and enjoy 
+  working within multi-computer Linux environments. Currently, I'm deepening 
+  my knowledge in system optimization and exploring web application security.
 
----
+working_on:
+  - Product Inventory Automation: Developing a multi-module Python application 
+    with automated scrapers to synchronize supplier data from Google Sheets 
+    and media from Telegram channels.
+  - Logistics Mobile Solutions: Researching and building cross-platform mobile 
+    architecture (API integration, state management, background tracking).
+  - Cybersecurity Training: Actively studying web vulnerability assessment 
+    and penetration testing methodologies.
 
-## 📫 Connect with me  
+tech_stack:
+  core: [Python, PostgreSQL, SQLAlchemy, Redis, Linux, Docker, Git]
+  familiar: [Vue.js, Django, Flask, Celery, Bash]
+  exploring: [Flutter, Dart, Web Security]
+```
+
 <div align="left">
   <a href="https://github.com/panchenko-maxim" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/maxim-panchenko-5a1aa71a1/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a> 
-  <a href="panchenko.maxim87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  <a href="mailto:panchenko.maxim87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
+</div>
+
+
+
+## 📊 GitHub Activity
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
+  <br/>
+  <img src="github-snake.svg" alt="GitHub Snake" width="600" />
 </div>
 
 
