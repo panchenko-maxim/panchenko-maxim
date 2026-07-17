@@ -1,41 +1,7 @@
-<!---
-# Hi, I'm Max! 👋  
-**🚀 Software Developer | Python & Linux enthusiast**
 
-I build robust backend architectures, automate data pipelines, and enjoy working within multi-computer Linux environments. Currently, I'm deepening my knowledge in system optimization and exploring web application security.
-
-<div align="left">
-  <a href="https://github.com/panchenko-maxim" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/maxim-panchenko-5a1aa71a1/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a> 
-  <a href="mailto:panchenko.maxim87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
----
-
-## 🔭 What I'm working on
-* **Product Inventory Automation:** Developing a multi-module Python application with automated scrapers to synchronize supplier data from Google Sheets and media from Telegram channels.
-* **Logistics Mobile Solutions:** Researching and building cross-platform mobile architecture (API integration, state management, background tracking).
-* **Cybersecurity Training:** Actively studying web vulnerability assessment and penetration testing methodologies.
-
----
-
-## 💻 Tech Stack  
-
-* **🛠 Core (Daily Drivers):** `Python` `PostgreSQL` `SQLAlchemy` `Redis` `Linux (Ubuntu/Pop!_OS)` `Docker` `Git`
-* **🔧 Familiar With & Using:** `Vue.js` `Django` `Flask` `Celery` `Bash`
-* **🌱 Currently Exploring:** `Flutter` `Dart` `Web Security`
-
----
--->
 
 ```yaml
-name: Max 👋
+name: Hi, I'm Max! 👋
 role: 🚀 Software Developer | Python & Linux enthusiast
 
 about_me: >
@@ -51,12 +17,12 @@ working_on:
     architecture (API integration, state management, background tracking).
   - Cybersecurity Training: Actively studying web vulnerability assessment 
     and penetration testing methodologies.
-
-tech_stack:
-  core: [Python, PostgreSQL, SQLAlchemy, Redis, Linux, Docker, Git]
-  familiar: [Vue.js, Django, Flask, Celery, Bash]
-  exploring: [Flutter, Dart, Web Security]
 ```
+**🛠 Core:** <kbd>Python</kbd> <kbd>PostgreSQL</kbd> <kbd>SQLAlchemy</kbd> <kbd>Redis</kbd> <kbd>Linux</kbd> <kbd>Docker</kbd> <kbd>Git</kbd> <br>
+**🔧 Familiar:** <kbd>Vue.js</kbd> <kbd>Django</kbd> <kbd>Flask</kbd> <kbd>MongoDB</kbd> <kbd>GCP</kbd> <kbd>Celery</kbd> <kbd>Bash</kbd> <br>
+**🌱 Exploring:** <kbd>Flutter</kbd> <kbd>Dart</kbd> <kbd>Web Security</kbd>
+
+<br>
 
 <div align="left">
   <a href="https://github.com/panchenko-maxim" target="_blank">
@@ -79,17 +45,13 @@ tech_stack:
   <img src="github-snake.svg" alt="GitHub Snake" width="600" />
 </div>
 
-
+<!-- version_1 -->
 <!---# Hi, I'm Max! 👋  
 ### 🚀 Python developer, like Linux)
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -102,8 +64,6 @@ tech_stack:
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -121,8 +81,6 @@ tech_stack:
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -134,7 +92,6 @@ tech_stack:
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="left">
@@ -152,12 +109,29 @@ tech_stack:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=panchenko-maxim&layout=compact&theme=dark&v=1)
 
-
-
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
 ###
+-->
+
+<!-- version_2 -->
+<!---
+# Hi, I'm Max! 👋  
+**🚀 Software Developer | Python & Linux enthusiast**
+
+I build robust backend architectures, automate data pipelines, and enjoy working within multi-computer Linux environments. Currently, I'm deepening my knowledge in system optimization and exploring web application security.
+---
+## 🔭 What I'm working on
+* **Product Inventory Automation:** Developing a multi-module Python application with automated scrapers to synchronize supplier data from Google Sheets and media from Telegram channels.
+* **Logistics Mobile Solutions:** Researching and building cross-platform mobile architecture (API integration, state management, background tracking).
+* **Cybersecurity Training:** Actively studying web vulnerability assessment and penetration testing methodologies.
+---
+## 💻 Tech Stack  
+* **🛠 Core (Daily Drivers):** `Python` `PostgreSQL` `SQLAlchemy` `Redis` `Linux (Ubuntu/Pop!_OS)` `Docker` `Git`
+* **🔧 Familiar With & Using:** `Vue.js` `Django` `Flask` `Celery` `Bash`
+* **🌱 Currently Exploring:** `Flutter` `Dart` `Web Security`
+---
 -->
 
