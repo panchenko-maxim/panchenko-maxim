@@ -1,7 +1,7 @@
 
 
 ```yaml
-name: Hi, I'm Max! 👋
+name: Max 👋
 role: 🚀 Software Developer | Python & Linux enthusiast
 
 about_me: >
